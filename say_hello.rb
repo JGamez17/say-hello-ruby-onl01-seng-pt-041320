@@ -4,7 +4,7 @@ end
 
 say_hello("Kent Beck")
 
-def say_hello(name, no name=Hello Ruby Programmer!)
+def say_hello(name, name=Hello Ruby Programmer!)
   puts "Hello #{name}!{no name}"
 end
 
