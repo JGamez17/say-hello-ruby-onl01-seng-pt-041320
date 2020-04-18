@@ -3,3 +3,5 @@ def say_hello(name, name=Hello Ruby Programmer!)
 end
 
 say_hello("Kent Beck")
+
+say_hello("name")
